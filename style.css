@@ -1,0 +1,31 @@
+body{
+    background-color: #d3c9c9;
+    color: rgb(87, 59, 59);
+    text-align: center;
+    font-size: 20px;
+}
+
+.texto-um{
+    font-size: 34px;
+    color: rgb(109, 70, 70);
+}
+
+.paragrafo1{
+    font-size: 35px;
+    color: rgb(177, 86, 86);
+}
+
+.paragrafo2{
+    font-size: 25px;
+}
+
+.rodape{
+
+    text-align:right;
+  font-size: 28px;
+  color: rgb(0, 0, 0);
+}
+
+.imagem{
+    width: 30%;
+}
